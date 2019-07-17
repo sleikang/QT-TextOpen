@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.ico</file>
+        <file>about.png</file>
+        <file>open.png</file>
+        <file>skip.png</file>
+        <file>search.png</file>
+        <file>findDown.png</file>
+        <file>findUp.png</file>
+        <file>font.png</file>
+        <file>save.png</file>
+        <file>line.png</file>
+        <file>saveAs.png</file>
+    </qresource>
+    <qresource prefix="/language">
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
